@@ -1,8 +1,10 @@
 
-# Chatbot using NLP
+# Implementation of Chatbot using NLP
 
 ## Overview
-This project implements a chatbot using Natural Language Processing (NLP) techniques. The chatbot is designed to understand user intents and provide appropriate responses based on predefined patterns and responses. It utilizes the `nltk` library for natural language processing, `scikit-learn` for machine learning, and `streamlit` for creating an interactive web interface.
+## Project Description
+
+This project implements an intelligent chatbot leveraging Natural Language Processing (NLP) techniques. The primary goal is to build a system capable of understanding user queries, determining their intent, and providing contextually relevant responses. By utilizing libraries such as `nltk` for language processing, `scikit-learn` for machine learning, and `streamlit` for the user interface, the chatbot aims to create a smooth and interactive experience for users.
 
 ---
 
@@ -86,5 +88,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - **Streamlit** for building the web interface.
 
 ---
-
+## Future Work
+While this chatbot demonstrates basic functionality, future work could include adding more advanced conversational abilities such as handling multi-turn conversations, improving intent detection, or using deep learning techniques for response generation. Additionally, the integration of more complex language models like GPT could improve the quality and fluidity of the responses.
+- --
 Replace `<repository-url>` and `<repository-directory>` with the actual URL of your repository and the name of the directory where the project is located. Adjust any sections as necessary to better fit your project's specifics.
